@@ -1,0 +1,18 @@
+<style type="text/css">
+.headerbox h2 {font-weight:normal;font-size:14px;font-family:helvetica,arial,sans-serif;color:#ffffff;} /*headers for boxes of content*/
+.headerbox {background-image:none;background-color:#3c5e8e;}
+.headerbox h2 a {color:#ffffff;}
+#tabsI, #tabs12 {font-size:14px;font-family:helvetica,arial,sans-serif;} /*tabs at top of page, below guide title, above page content*/
+#tabs12 {padding-bottom:5px;border:none;}
+#tabs12 a, #tabs12 a span {background-image:none;}
+#tabsI a span, #tabs12 a span {background-color:#3c5e8e;padding: 5px 6px;border-radius:5px;margin:2px;border:1px solid #012d6b;}
+#tabsI a span:hover, #tabs12 a span:hover {background-color:#00a7e5;}
+#current a span {background-color:#00a7e5;} /*tab of the page you're on*/
+.dropmenudiv a:hover {background-color:#00a7e5; color:#ffffff;} /*for sub-pages*/
+.dropmenudiv {font-size:12px;font-weight:normal;font-family:helvetica,arial,sans-serif;margin-top:-5px;}
+.stitle {background-image:none;background-color:#eaeaea;border-bottom:1px solid #3c5e8e;border-top:1px solid #3c5e8e;padding:10px;} /*band below tabs, with title of page and search box*/
+.guidetitle {font-size:30px;font-weight:bold;}
+.box_comments, .icomments, #addthis_button {display:none;} /*all references to comments hidden; Share This box hidden*/
+.guidetags {display:block;margin:10px;}
+#guide_header_title, #guide_header_title h1 {display:block;margin:20px 0;}
+</style>
