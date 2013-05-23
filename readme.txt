@@ -1,4 +1,15 @@
-Preview: http://guides.lib.jjay.cuny.edu/
+Preview: http://guides.lib.jjay.cuny.edu/ 
+
+A more modern look for your LibGuides:
+
+1. If you’re an admin, get to the Admin stuff » Customize » Look & Feel page (admin_lookfeel.php)
+2. Choose “Square” for the tab and box shape; ignore the color swatches
+3. Banner options:
+--A static image, 985px wide, that will automatically link to your main library page
+--Custom Header Code in HTML: use if you have multiple images, a menu bar, or other complex items. Note that this code doesn’t actually go within <header>
+--Both: not recommended, looks messy. Note that the System Banner will appear after the Custom Header Code. (See ‘before’ image above.)
+
+4. Custom JS/CSS code: this is where you can customize how the whole page looks, as it overrides the system CSS. Paste the .css file into this textbox.
 
 Things this code will do:
 
@@ -14,3 +25,10 @@ Things this code will do:
 #ffffff is white (button and box title text)
 
 --Make the tabs at the top of the page into buttons with rounded corners (flat color). Guides with multiple tabs may find that by default the tabs stack up on top of each other unattractively; buttons make slightly more sense and look better.
+
+________________
+More info: http://emerging.commons.gc.cuny.edu/2013/03/easy-libguides-makeover/
+
+Robin (@robincamille)
+
+Take this CSS and make it your own! 
