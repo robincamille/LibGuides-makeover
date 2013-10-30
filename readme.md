@@ -7,7 +7,7 @@ Preview: http://guides.lib.jjay.cuny.edu/
   * Banner: a static image, 985px wide and however much you want high, that will automatically link to your main library page
   * Custom Header Code in HTML: use if you have multiple images, a menu bar, or other complex items
   * Both: not recommended, looks messy. Note that Banner will appear after the Custom Header Code
-4. Custom JS/CSS code: this is where you can customize how the whole page looks, as it overrides the system CSS. Paste the .css file into this textbox within <style> tags.
+4. Custom JS/CSS code: this is where you can customize how the whole page looks, as it overrides the system CSS. Paste the .css file into this textbox within style tags.
 
 # template.css #
 A fill-in-the-blank CSS template with identifiers and classes you'll probably want to change, commented with descriptions of what they are. Many aren't listed, but you can find them using *Inspect Element* in Chrome/Firefox or examining a libguide's source code.
