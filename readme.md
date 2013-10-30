@@ -4,9 +4,9 @@ Preview: http://guides.lib.jjay.cuny.edu/
 1. If you’re an admin, get to the Admin stuff » Customize » Look & Feel page (admin_lookfeel.php)
 2. Ignore tab shapes and the color swatches
 3. Banner options:
-** A static image, 985px wide, that will automatically link to your main library page
-** Custom Header Code in HTML: use if you have multiple images, a menu bar, or other complex items. Note that this code doesn’t actually go within <header>
-** Both: not recommended, looks messy. Note that the System Banner will appear after the Custom Header Code. (See ‘before’ image above.)
+  * A static image, 985px wide, that will automatically link to your main library page
+  * Custom Header Code in HTML: use if you have multiple images, a menu bar, or other complex items. Note that this code doesn’t actually go within <header>
+  * Both: not recommended, looks messy. Note that the System Banner will appear after the Custom Header Code. (See ‘before’ image above.)
 4. Custom JS/CSS code: this is where you can customize how the whole page looks, as it overrides the system CSS. Paste the .css file into this textbox.
 
 # template.css #
