@@ -1,0 +1,71 @@
+<style type="text/css"> /* start editing here! */
+			
+			.guidetitle { /* title of the guide  */
+			
+			}
+			
+			#guideattr { /* "Last updated" "URL" etc. */
+			
+			}
+			
+			#bc_libguides_login { /* link to Admin Sign In */
+			
+			}
+			
+			#tabsI, #tabs12 { /*tabs at top of page, below guide title, above page content*/
+			
+			} 
+			
+			#tabsI a, #tabs12 a { /* background = outside of tabs (default border on left) */
+
+			}
+		
+			#tabsI a span, #tabs12 a span { /* inside of tabs (default gradient) */
+
+			}
+			
+			#current a span { /*tab of the page you're on*/
+
+			} 
+
+			.dropmenudiv { /*for sub-pages (none on this sample page) */
+			
+			} 
+			
+			.stitle { /*band below tabs, with title of page and search box*/
+			
+			} 
+			
+			#guide_tab_title_bar_page_name { /* title of the page you're looking at (same as the tab you're on) */
+			
+			}
+			
+			#guide_header_title { /* contains title of guide */
+			
+			}
+
+			.box_comments, .icomments { /*all references to comments */
+			
+			} 
+			
+			.headerbox { /* headers for boxes of content*/
+				
+			} 
+			
+			.headerbox h2 { /* title inside headers for boxes of content*/
+			}
+			
+			.headerbox h2 a { /* specify colors of header titles, which are links */
+			
+			}
+				
+			.innerbox { /* content in boxes */
+			
+			}
+			
+			.linkdesc { /* captions beneath links */
+			
+			}
+			
+			/* stop editing here */
+		</style> 
