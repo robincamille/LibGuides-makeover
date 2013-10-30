@@ -27,7 +27,9 @@ ffffff is white (button and box title text)
 
 
 ---
-More info: http://emerging.commons.gc.cuny.edu/2013/03/easy-libguides-makeover/
+More info: 
+* http://emerging.commons.gc.cuny.edu/2013/10/libguides-customization-tutorial-css-template/
+* http://emerging.commons.gc.cuny.edu/2013/03/easy-libguides-makeover/
 
 Robin (@robincamille)
 
