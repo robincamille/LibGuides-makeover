@@ -1,6 +1,8 @@
-Preview: http://guides.lib.jjay.cuny.edu/ 
+# PLEASE NOTE: As of 2015, this code is outdated! It discusses customization for LibGuides 1.0, which is no longer supported! If you have LibGuides, you should be on LibGuides 2.0, and this post is not useful to you. #
 
-# How to customize LibGuides #
+Preview: https://web.archive.org/web/20140128004104/http://guides.lib.jjay.cuny.edu/dh
+
+## How to customize LibGuides 
 1. If you’re an admin, get to the Admin stuff » Customize » Look & Feel page (admin_lookfeel.php)
 2. Ignore tab shapes and the color swatches
 3. Banner options:
@@ -9,10 +11,10 @@ Preview: http://guides.lib.jjay.cuny.edu/
   * Both: not recommended, looks messy. Note that Banner will appear after the Custom Header Code
 4. Custom JS/CSS code: this is where you can customize how the whole page looks, as it overrides the system CSS. Paste the .css file into this textbox within style tags.
 
-# template.css #
+## template.css 
 A fill-in-the-blank CSS template with identifiers and classes you'll probably want to change, commented with descriptions of what they are. Many aren't listed, but you can find them using *Inspect Element* in Chrome/Firefox or examining a libguide's source code.
 
-# custom.css #
+## custom.css 
 Things custom.css will do:
 * Take out all references to Verdana and replace with Helvetica; make all text easier to read with increased size and fewer instances of bolded font
 * Make the tabs at the top of the page into buttons with rounded corners (flat color). Guides with multiple tabs may find that by default the tabs stack up on top of each other unattractively; buttons make slightly more sense and look better.
